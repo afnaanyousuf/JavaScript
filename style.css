@@ -1,0 +1,40 @@
+/* *{
+    color: white;
+    font-size: 20px;
+} */
+/* toggling the element */
+body{
+    text-align: center;
+}
+button{
+    margin: 30px;
+    padding: 3px 12px;
+    border-radius: 20px;
+    font-weight: bold;
+    border: 0px solid;
+    outline: none;
+    background-color: #D9E8FB;
+    color: #4D4D87;
+}
+.italic{
+    font-style: italic;
+    background-color: black;
+    color: #ffffff;
+}
+
+.bold{
+    font-style: bold;
+    background-color: black;
+    color: #ffffff;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+.underline{
+    text-decoration: underline;
+    font-size: 45px;
+    color: #000000;
+    font-style: italic;
+}
